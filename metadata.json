@@ -1,0 +1,5 @@
+{
+  "name": "AccuLedger AI",
+  "description": "An intelligent accounting assistant that transforms raw bank statements into structured ledgers and provides AI-powered financial insights.",
+  "requestFramePermissions": []
+}
